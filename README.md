@@ -2,6 +2,14 @@
 
 Cubic Mods is a Windows app that adds extra features to the Steam version of Cubic Castles. Start the game, then open Cubic Mods and it attaches to it.
 
+## Video
+
+A quick tour of every feature:
+
+[![Cubic Mods – New Features for Cubic Castles on Steam](https://img.youtube.com/vi/D-NBMWO8xEs/maxresdefault.jpg)](https://youtu.be/D-NBMWO8xEs)
+
+▶️ https://youtu.be/D-NBMWO8xEs
+
 ## Download
 
 Get `cubic-mods-<version>.exe` from the [Releases](../../releases) page.
